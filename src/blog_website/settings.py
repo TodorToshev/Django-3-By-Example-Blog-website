@@ -41,6 +41,7 @@ INSTALLED_APPS = [
 
     # custom
     "blog",
+    "taggit",
 ]
 
 MIDDLEWARE = [
